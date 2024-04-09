@@ -1,0 +1,15 @@
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\bin\Debug\net8.0\Grupo4.exe
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\bin\Debug\net8.0\Grupo4.deps.json
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\bin\Debug\net8.0\Grupo4.runtimeconfig.json
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\bin\Debug\net8.0\Grupo4.dll
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\bin\Debug\net8.0\Grupo4.pdb
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\Grupo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\Grupo4.AssemblyInfoInputs.cache
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\Grupo4.AssemblyInfo.cs
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\Grupo4.csproj.CoreCompileInputs.cache
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\Grupo4.dll
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\refint\Grupo4.dll
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\Grupo4.pdb
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\Grupo4.genruntimeconfig.cache
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\ref\Grupo4.dll
+C:\Users\lfz\source\repos\Grupo 4\Grupo 4\obj\Debug\net8.0\Grupo4.sourcelink.json
